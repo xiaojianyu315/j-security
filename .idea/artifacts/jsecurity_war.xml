@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsecurity:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jsecurity.war">
+      <element id="artifact" artifact-name="jsecurity:war exploded" />
+    </root>
+  </artifact>
+</component>
